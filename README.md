@@ -1,4 +1,4 @@
-# Traveling Salesman Problem with Release dates (TSPrd)
+# Traveling Salesman Problem with release dates (TSPrd)
 
 This repository accompanies the following research projects:
 
@@ -8,15 +8,13 @@ This repository accompanies the following research projects:
 
 The `data/` directory contains the instances used for experimentation during the aforementioned projects. Each folder contains problem instances of the following TSPrd variants:
 
- - `tsprd-time`: TSP with release-dates and completion-time minimization
- - `tsprd-distance`: TSP with release-dates and distance minimization
+ - `tsprd-time`: TSP with release dates and completion-time minimization
+ - `tsprd-distance`: TSP with release dates and distance minimization
 
- - `ctsprd-time`: Capacitated TSP with release-dates and completion-time minimization
- - `ctsprd-distance`: Capacitated TSP with release-dates and distance minimization
+ - `ctsprd-time`: Capacitated TSP with release dates and completion-time minimization
+ - `ctsprd-distance`: Capacitated TSP with release dates and distance minimization
 
- - `pc-tsprd-time`: Prize-Collecting TSP with release-dates and completion-time minimization
- - `pc-ctsprd-distance`: Prize-Collecting Capacitated TSP with release-dates and distance minimization
-
-In addition, full tables with results of each variant can be found [here](https://docs.google.com/spreadsheets/d/1d3DbjhYBcYaNaBKd6US-dWvhHaVuFx4X3xJY-PRKhKk/edit?usp=sharing).
+ - `pc-tsprd-time`: Prize-Collecting TSP with release dates and completion-time minimization
+ - `pc-ctsprd-distance`: Prize-Collecting Capacitated TSP with release dates and distance minimization
 
 The source code of the algorithms will be added soon 🔜
