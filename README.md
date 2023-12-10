@@ -1,6 +1,6 @@
-## Traveling Salesman Problem with release dates (TSP-rd)
+# Traveling Salesman Problem with release dates (TSP-rd)
 
-Please, find here the **code** developed during the following research projects:
+This is the **code** developed for the following research projects:
 
 - Montero, A., Méndez-Díaz, I., & Miranda-Bront, J. J (2023). [Solving the Traveling Salesman Problem with release dates via branch-and-cut](https://www.sciencedirect.com/science/article/pii/S2192437623000183). EURO Journal on Transportation and Logistics, 100121.
 
@@ -28,6 +28,6 @@ The following **dependencies** are needed:
 
 Finally, you need to execute 'make' in the 'common/concorde' folder first, and only then in the 'algorithms' folder. Please, review and adjust the corresponding makefiles as needed.
 
-That's all —- **have fun!**
+That's all — **have fun!**
 
 P.S. Use at your own risk. We make no guarantees about the correctness or usefulness of this code.
