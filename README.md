@@ -26,8 +26,8 @@ The following **dependencies** are needed:
 - [Concorde TSP Solver](https://www.math.uwaterloo.ca/tsp/concorde/index.html) (already included)
 - [JSON for Modern C++](https://github.com/nlohmann) (already included)
 
-Finally, you need first to execute *make* in the *common/concorde* folder, and only then in the *algoritmhs* folder. Please, review and adjust the corresponding makefiles as needed.
+Finally, you need to execute 'make' in the 'common/concorde' folder first, and only then in the 'algorithms' folder. Please, review and adjust the corresponding makefiles as needed.
 
-That's all, **have fun**!
+That's all —- **have fun!**
 
-PS. Use at your own risk.  We make no guarantees about the correctness or usefulness of this code.
+P.S. Use at your own risk. We make no guarantees about the correctness or usefulness of this code.
