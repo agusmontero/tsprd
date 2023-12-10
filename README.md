@@ -18,7 +18,7 @@ The problem instances reported in the aforementioned projects are included in th
 
 ### Code
 
-The following **dependencies** need required:
+The following **dependencies** are needed:
 
 - [Boost C++ libraries](https://www.boost.org/doc/libs/1_66_0/libs/graph/doc/index.html)
 - [CPLEX 12.9](https://www.ibm.com/products/ilog-cplex-optimization-studio)
